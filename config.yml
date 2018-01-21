@@ -1,0 +1,10 @@
+
+#OUTPUT_DIR: "/tmp/output"
+#INPUT_DIR: "/tmp/input"
+#S3_URL: "https://s3.console.aws.amazon.com/s3/buckets/nanonets-platform-task"
+
+IMG_TARGET_SIZE: 300
+
+TRAINING_DATA_SIZE: 7
+TEST_DATA_SIZE: 2
+VALIDATION_DATA_SIZE: 1
